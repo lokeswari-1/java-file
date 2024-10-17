@@ -1,4 +1,4 @@
-class A{
+class jexample{
 public static void main(String[] args){
 System.out.println("hello");
 }
